@@ -22,6 +22,13 @@ Project Block diagram:
 ![Image](https://user-images.githubusercontent.com/114052832/191440685-9a5e3a9c-07c0-4ea2-ad57-939e4e775b71.png)
 
 
+System Structure:
+
+
+![Image](https://user-images.githubusercontent.com/114052832/191443744-2372db79-8b9b-4ba7-a6cd-e5debf562bb5.png)
+
+
+
 The video below shows the finalDemo of the robot:
 
 
@@ -31,9 +38,14 @@ https://user-images.githubusercontent.com/114052832/191430802-cec8382d-5db9-405d
 Close up of the robot:
 
 
+
+![Image](https://user-images.githubusercontent.com/114052832/191429890-be84c6d2-da9b-4975-b358-99d7ab223ae3.jpg)
+
+
+
 ![Image](https://user-images.githubusercontent.com/114052832/191429889-9daddf0c-a8d5-48be-aad0-6d469a01f264.jpg)
 
 
-![Image](https://user-images.githubusercontent.com/114052832/191429890-be84c6d2-da9b-4975-b358-99d7ab223ae3.jpg)
+
 
 
