@@ -7,13 +7,13 @@ the project consists of:
 
 IR sensor to detect the finish line (black line) and stop
 
-Motors
+* Motors
 
-sensors shield
+* sensors shield
 
-Microcontroller board (Arduino Uno)
+* Microcontroller board (Arduino Uno)
 
-Buzzer for warning
+* Buzzer for warning
 
 
 Project Block diagram:
